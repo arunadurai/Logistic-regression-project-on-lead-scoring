@@ -12,8 +12,12 @@ In this project,a logistic regression model is built to assign a lead score betw
 
 The below files are attached to get more information on the data and the dataset:
 
-Leads Data Dictionary.csv : This file is data dictionary that provides information on all the features present in the dataset.
-leads.csv : This file contains the dataset to be used for the case study.
-LeadScoringCaseStudy_ModelBuilding.ipynb : This file contain python code for model building and prediction using Logistic Regression.
-LeadScoringCaseStudyPresentation.pdf : This file contains a presentation to present the analysis in pdf format.
-LeadScoringCaseStudySummary.pdf :  This file contains brief summary of the problem statement and the solution approach explaining overview of all steps performed.
+1.Leads Data Dictionary.csv : This file is data dictionary that provides information on all the features present in the dataset.
+
+2.leads.csv : This file contains the dataset to be used for the case study.
+
+3.LeadScoringCaseStudy_ModelBuilding.ipynb : This file contain python code for model building and prediction using Logistic Regression.
+
+4.LeadScoringCaseStudyPresentation.pdf : This file contains a presentation to present the analysis in pdf format.
+
+5.LeadScoringCaseStudySummary.pdf :  This file contains brief summary of the problem statement and the solution approach explaining overview of all steps performed.
